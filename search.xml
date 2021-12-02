@@ -21,9 +21,8 @@
   <entry>
     <title>hello</title>
     <url>/cong/2021/12/02/hello/</url>
-    <content><![CDATA[<p>123123123123</p>
-<p><a href="https://www.baidu.com/">hexo</a></p>
-]]></content>
+    <content><![CDATA[<p>大家好，我是萌新</p>
+<h2 id="哼哼，啊啊啊啊"><a href="#哼哼，啊啊啊啊" class="headerlink" title="哼哼，啊啊啊啊"></a>哼哼，啊啊啊啊</h2><h3 id="24岁，是社畜"><a href="#24岁，是社畜" class="headerlink" title="24岁，是社畜"></a>24岁，是社畜</h3>]]></content>
       <categories>
         <category>分类1</category>
         <category>分类2</category>
@@ -31,6 +30,18 @@
       <tags>
         <tag>标签1</tag>
         <tag>标签2</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>你好，世界</title>
+    <url>/cong/2021/12/02/%E4%BD%A0%E5%A5%BD%EF%BC%8C%E4%B8%96%E7%95%8C/</url>
+    <content><![CDATA[<p>大家好，我是萌新<br></p>
+<h2 id="哼哼，啊啊啊啊"><a href="#哼哼，啊啊啊啊" class="headerlink" title="哼哼，啊啊啊啊"></a>哼哼，啊啊啊啊</h2><h3 id="24岁，是社畜"><a href="#24岁，是社畜" class="headerlink" title="24岁，是社畜"></a>24岁，是社畜</h3>]]></content>
+      <categories>
+        <category>垃圾</category>
+      </categories>
+      <tags>
+        <tag>萌新</tag>
       </tags>
   </entry>
 </search>
